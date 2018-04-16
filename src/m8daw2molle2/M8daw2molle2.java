@@ -28,6 +28,10 @@ package m8daw2molle2;
     bw.write(" Nova p&agrave;gina web");bw.newLine();
     bw.write(" </body>");bw.newLine();
     bw.write("</html>");bw.newLine();
+    
+    
+    
+    bw.newLine();bw.newLine();bw.newLine();bw.newLine();bw.newLine();bw.newLine();bw.newLine();
     bw.close();
     }
     }
