@@ -27,7 +27,6 @@ package m8daw2molle2;
     bw.write(" <body>");bw.newLine();
     bw.write(" <h1>DAW2 Pràctica 2: Github</h1>");
     bw.newLine();
-
     bw.write(" Nova p&agrave;gina web");bw.newLine();
     bw.write(" </body>");bw.newLine();
     bw.write("</html>");bw.newLine();
